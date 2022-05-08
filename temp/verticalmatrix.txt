@@ -1,0 +1,10 @@
+name:Hind
+weight:700
+win_a:990
+win_d:270
+typo_a:990
+typo_d:-270
+hhea_a:990
+hhea_d:-270
+hhea_l:90
+typo_l:90
